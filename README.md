@@ -6,6 +6,10 @@
 This adapter allows you to get status information about your LaMetric Time and to send notification to it. All you need is the IP address of your device and the api developer key. You can get your personal key [here](https://developer.lametric.com/).
 
 ## Changelog
+### 0.0.2
+
+* Change message_value for variables message
+* Leave sound none
 
 ### 0.0.1
 
